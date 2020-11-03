@@ -25,7 +25,7 @@
     "@types/react": "^16.9.55",
     "date-fns": "^2.16.1",
     "intersection-observer": "^0.11.0",
-    "react": "^16.14.0"
+    "react": "^17.0.1"
   },
   "engines": {
     "node": ">=10.0.0"
